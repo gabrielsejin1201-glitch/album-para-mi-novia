@@ -1,0 +1,7 @@
+CARTA ROMÁNTICA PARA MI NIÑA ♡
+
+1. Descomprime el archivo ZIP.
+2. Abre la carpeta y haz doble clic en index.html.
+3. La carta se abrirá en tu navegador, con el poema completo y las imágenes.
+
+Para compartirla como una página web pública, puedes subir el contenido de esta carpeta a GitHub Pages o a otro servicio de alojamiento estático. Mantén la carpeta "imagenes" junto a index.html para que las fotos aparezcan.
